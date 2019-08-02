@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebBrowser</string>
+    <string name="StartPage">https://yandex.ru</string>
+</resources>
